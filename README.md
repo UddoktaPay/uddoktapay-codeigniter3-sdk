@@ -1,4 +1,4 @@
-# Uddokta Pay Payment Gateway SDK for CodeIgniter 3
+# UddoktaPay Payment SDK for CodeIgniter 3
 
 Developer guide - https://developer.uddoktapay.com/
 
