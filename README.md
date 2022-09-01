@@ -16,7 +16,7 @@ Please use API v2
 3. Copy `views/uddoktapay/index.php` on your file.
 
 
-# Configuration
+## Configuration
 
 1. `application/controllers/Uddoktapay.php` setup your API KEY & API URL
 
