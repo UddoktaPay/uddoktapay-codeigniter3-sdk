@@ -20,7 +20,11 @@ Please use API v2
 
 1. `application/controllers/Uddoktapay.php` setup your API KEY & API URL
 
-2. You can modify ``pay success cancel webhook functions from `application/controllers/Uddoktapay.php`
+2. You can modify `pay success cancel webhook` functions from `application/controllers/Uddoktapay.php`
+
+
+
+Enjoy. Stay with UddoktaPay
 
 
 
